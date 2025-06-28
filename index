@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Spotify Mod Download</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+  body {
+    margin: 0;
+    background: linear-gradient(135deg, #1DB954, #191414);
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+  }
+  h1 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+    text-shadow: 0 0 10px #1db954aa;
+  }
+  p {
+    font-size: 1.2rem;
+    margin-bottom: 40px;
+    letter-spacing: 0.05em;
+  }
+  a.btn {
+    background: #1DB954;
+    border: none;
+    padding: 20px 60px;
+    font-size: 1.5rem;
+    color: #191414;
+    font-weight: 700;
+    border-radius: 100px;
+    cursor: pointer;
+    box-shadow: 0 10px 20px #1db954aa;
+    transition: all 0.3s ease;
+    text-decoration: none;
+    display: inline-block;
+  }
+  a.btn:hover {
+    background: #17b54d;
+    box-shadow: 0 12px 25px #17b54daa;
+  }
+</style>
+</head>
+<body>
+  <h1>Spotify Mod</h1>
+  <p>Get the latest Spotify Mod with premium unlocked for free!</p>
+  <a href="SpotifyMod.exe" download class="btn">Download SpotifyMod.exe</a>
+</body>
+</html>
